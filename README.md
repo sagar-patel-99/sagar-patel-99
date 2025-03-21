@@ -6,6 +6,18 @@ I specialize in designing scalable backend architectures, integrating intelligen
 
 ---
 
+## 🎓 Education
+
+**San José State University**  
+*M.S. Software Engineering (2023–2025)*  
+GPA: 3.60
+
+**BITS Edu Campus – Babaria Institute**  
+*B.S. Computer Science (2017–2021)*  
+GPA: 3.76
+
+---
+
 ## 💼 Professional Experience
 
 ### 🔹 **Software Engineer Intern – Flex**
@@ -143,7 +155,7 @@ Messaging & Communication:
 Concepts:
   - Distributed Systems, Microservices, NLP, LLMs, Image Processing, IoT, CI/CD, SDLC, Data Structures & Algorithms
 ```
-
+---
 ## 🔍 I'm currently focused on:
 - Scalable backend services & microservices
 - Intelligent systems (AI, ML, NLP, LLMs)
@@ -152,7 +164,7 @@ Concepts:
 
 🎯 Always up for a good problem to solve — let’s connect, collaborate, and create something impactful.
 
-
+---
 ## 🤝 Let's Connect
 
 I'm always open to connecting with like-minded professionals, collaborators, and innovators!
