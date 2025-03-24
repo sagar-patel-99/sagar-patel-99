@@ -37,31 +37,44 @@ Worked on a real-world robotics and AI use-case that automates factory inspectio
 
 ---
 
-### 🔹 **Software Developer – Shree Hari Info Solution**
-*Oct 2021 – June 2023 | Ahmedabad, India*
+## 💼 Professional Experience
 
-#### 🛒 **Project 1: Shopping Platform**
-A secure eCommerce platform with a powerful real-time backend and intuitive frontend.
+### 🔹 **Software Engineer Intern – Flex**
+*May 2024 – October 2024 | Austin, TX*
 
-- 🔐 **Authentication Overhaul**: Replaced legacy login with **Auth0 JWT-based authentication**, 2FA, and **role-based access control**.
-- 🔍 **Search Engine**: Built an **Elasticsearch-powered search** that reduced query latency by 50%.
-- 🔄 **Event-Driven Architecture**: Integrated **Google Pub/Sub** + **gRPC** to decouple services, optimize message passing, and reduce request overhead.
-- 🛡️ **Encryption**: Strengthened password security using **SHA-256 + salting** and secured all data-in-transit with HTTPS.
+**Project: AI-Powered 5S Automated Inspection Robot**
 
-> 🚀 *Result*: Increased platform scalability, improved fault tolerance, and reduced server load during peak shopping hours.
+- 🧠 **AI & ML:** Built a real-time object detection model using **PyTorch**, optimized to **ONNX**, and accelerated with **CUDA** on an **Nvidia Jetson Nano**.
+- 🤖 **Robotics & Automation:** Integrated **MiR Autonomous Mobile Robots (AMRs)** with GPS validation and PLC-controlled cameras for automated inspections.
+- 🔄 **Data Processing:** Developed an asynchronous pipeline that categorizes images, automates archival via **SMB**, and retrains models for improved accuracy.
+- 📊 **Logging & Monitoring:** Implemented real-time analytics and logging using the **ELK Stack** to ensure compliance monitoring.
+- 📋 **Documentation:** Created detailed technical documentation using **Confluence** and task management via **JIRA**.
+
+> 📈 **Impact:** Significantly reduced manual inspection, enhanced accuracy, and streamlined audit readiness.
 
 ---
 
-#### 🚗 **Project 2: Ride-Sharing Platform**
-Designed a multi-city ride-matching platform with dynamic pricing and real-time tracking.
+### 🔹 **Software Developer – Shree Hari Info Solution**
+*Oct 2021 – June 2023 | Ahmedabad, India*
 
-- 📍 **Geo-Matching Engine**: Developed a ride allocation engine using **Spring Boot**, **PostGIS**, **Redis Geo**, and **Neo4j**, reducing rider wait times by 80%.
-- 💸 **Dynamic Surge Pricing**: Trained a **DeepLearning4J-based ML model** to dynamically adjust fares using **AWS Lambda**, improving pricing accuracy by 40%.
-- 📡 **Live Tracking**: Integrated **WebSockets** for millisecond-precision driver location updates.
-- 💰 **Stripe Integration**: Added secure, PCI-compliant payment flow with **Stripe API**.
-- ⚙️ **CI/CD & Monitoring**: Used **GitHub Actions** for CI/CD and **Splunk** for real-time logs and alerting.
+#### 🛒 **Secure Shopping Platform**
 
-> 🔁 *Result*: Enabled fault-tolerant ride-matching across multiple cities, with 30% improvement in user retention and 25% reduction in ops support tickets.
+- 🔐 **Auth & Security:** Integrated **Auth0 JWT-based authentication** with SSO (Google/Facebook), 2FA, and **SHA-256 hashing** with salting.
+- 🔎 **Real-Time Search:** Enhanced search capability using **Elasticsearch**, cutting query latency by **50%**.
+- ⚙️ **Event-Driven Microservices:** Architected scalable microservices using **Google Pub/Sub** and **gRPC**, improving scalability by reducing overhead by **35%**.
+- 📈 **Performance Optimization:** Implemented caching and **GraphQL** APIs, enhancing user data retrieval speed.
+
+> 🚀 **Result:** Improved security, scalability, and user experience, significantly reducing customer support efforts.
+
+#### 🚗 **Ride-Sharing Platform**
+
+- 📍 **Geospatial Ride Matching:** Developed efficient ride-allocation using **Spring Boot**, **PostgreSQL/PostGIS**, **Redis Geo**, and **Neo4j**, reducing rider wait times by **80%**.
+- 💰 **Dynamic Pricing:** Built a predictive surge pricing system with **DeepLearning4J** and **AWS Lambda**, improving fare accuracy.
+- 📡 **Real-Time Tracking:** Integrated **WebSockets** for millisecond-precision driver tracking.
+- 💳 **Payments & Compliance:** Integrated secure payments via **Stripe API** (PCI-compliant).
+- 📊 **CI/CD & Monitoring:** Automated deployments with **GitHub Actions**, **Docker**, **Kubernetes**, monitored with **Splunk**, **Prometheus**, and **Grafana**.
+
+> 🔥 **Result:** Enhanced multi-city scalability, increased user retention, and improved operational efficiency.
 
 ---
 
@@ -135,25 +148,26 @@ Achieved seamless socket communication between three different languages.
 
 ```yaml
 Languages:
-  - Java, Python, C++, Go, JavaScript, PHP, .NET, C, SQL, HTML, CSS, Android
+  - Java, Python, C++, Go, JavaScript, PHP, .NET, C, SQL, HTML, CSS, Shell, Android
 
 Frameworks & Libraries:
-  - Spring Boot, Node.js, React.js, Next.js, Streamlit, DeepLearning4J, BERT, Langchain, Swagger, Socket.io
+  - Spring Boot, Node.js, React.js, Next.js, Django, Flask, FastAPI, Streamlit, PyTorch, TensorFlow, DeepLearning4J, ONNX, CUDA, BERT, LangChain, Swagger, Socket.io, JUnit, PyTest
 
 Databases:
-  - MongoDB, PostgreSQL, MySQL, Redis, DynamoDB, Neo4j, Firebase, ElasticSearch, ArangoDB, MS SQL
+  - MongoDB, PostgreSQL, MySQL, Redis, DynamoDB, Neo4j, Firebase, Elasticsearch, ArangoDB, MS SQL
 
 Cloud & DevOps:
-  - AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, CloudWatch
+  - AWS, Google Cloud Platform (GCP), Azure, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, CloudWatch, AWS Lambda, AWS EMR, AWS CloudFormation
 
 Monitoring & Tools:
-  - Prometheus, Grafana, ELK Stack, Datadog, Splunk, Power BI, Tableau, JMeter, Postman, JIRA, Confluence
+  - Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Datadog, Splunk, Power BI, Tableau, JMeter, Postman, JIRA, Confluence, Slack
 
 Messaging & Communication:
-  - Apache Kafka, RabbitMQ, Google Pub/Sub, WebSockets, gRPC, SMB
+  - Apache Kafka, RabbitMQ, Google Pub/Sub, WebSockets, gRPC, SMB, REST APIs
 
-Concepts:
-  - Distributed Systems, Microservices, NLP, LLMs, Image Processing, IoT, CI/CD, SDLC, Data Structures & Algorithms
+Platforms & Concepts:
+  - Distributed Systems, Microservices, NLP, LLMs, Computer Vision, Image Processing, IoT, Robotics (AMR MiR, Nvidia Jetson Nano), CI/CD, Agile Methodologies, SDLC, Data Structures & Algorithms, Authentication & Security (Auth0, JWT, SSO, SHA-256 Hashing)
+
 ```
 ---
 ## 🔍 I'm currently focused on:
