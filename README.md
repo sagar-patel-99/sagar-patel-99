@@ -20,7 +20,7 @@ GPA: 3.76
 
 ## 💼 Professional Experience
 
-### 🔹 **Software Engineer Intern – Flex**
+### 🔹 **Software Engineering Intern – Flex**
 *May 2024 – October 2024 | Austin, TX*
 
 **Project: 5S Automated Inspection System for Manufacturing Plants**
@@ -37,24 +37,7 @@ Worked on a real-world robotics and AI use-case that automates factory inspectio
 
 ---
 
-## 💼 Professional Experience
-
-### 🔹 **Software Engineer Intern – Flex**
-*May 2024 – October 2024 | Austin, TX*
-
-**Project: AI-Powered 5S Automated Inspection Robot**
-
-- 🧠 **AI & ML:** Built a real-time object detection model using **PyTorch**, optimized to **ONNX**, and accelerated with **CUDA** on an **Nvidia Jetson Nano**.
-- 🤖 **Robotics & Automation:** Integrated **MiR Autonomous Mobile Robots (AMRs)** with GPS validation and PLC-controlled cameras for automated inspections.
-- 🔄 **Data Processing:** Developed an asynchronous pipeline that categorizes images, automates archival via **SMB**, and retrains models for improved accuracy.
-- 📊 **Logging & Monitoring:** Implemented real-time analytics and logging using the **ELK Stack** to ensure compliance monitoring.
-- 📋 **Documentation:** Created detailed technical documentation using **Confluence** and task management via **JIRA**.
-
-> 📈 **Impact:** Significantly reduced manual inspection, enhanced accuracy, and streamlined audit readiness.
-
----
-
-### 🔹 **Software Developer – Shree Hari Info Solution**
+### 🔹 **Software Engineer – Shree Hari Info Solution**
 *Oct 2021 – June 2023 | Ahmedabad, India*
 
 #### 🛒 **Secure Shopping Platform**
